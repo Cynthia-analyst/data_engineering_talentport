@@ -1,4 +1,4 @@
 __pycache__/
 *.log
 .env
-data/raw/
+data/raw/git branch -M main
